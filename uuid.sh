@@ -1,0 +1,1 @@
+g++ uuid.cpp -o uuid; ./uuid
