@@ -21,7 +21,7 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
-// The Clock class keeps track of the env's timestep and returns current class
+// The Clock class keeps track of the env's timestep and returns current local time
 
 #include "clock.hpp"
 
