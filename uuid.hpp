@@ -1,5 +1,5 @@
-#ifndef UUID_H // include guard
-#define UUID_H
+#ifndef UUID_HPP // include guard
+#define UUID_HPP
 
 #include <iostream>
 #include <boost/uuid/uuid.hpp>
